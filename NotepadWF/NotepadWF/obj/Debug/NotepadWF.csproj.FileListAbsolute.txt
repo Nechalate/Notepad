@@ -1,0 +1,20 @@
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.exe.config
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.exe
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.pdb
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csprojAssemblyReference.cache
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.Form1.resources
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.Properties.Resources.resources
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csproj.GenerateResource.cache
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csproj.CoreCompileInputs.cache
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.exe
+C:\Users\P1-18\Desktop\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.pdb
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.exe.config
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.exe
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\bin\Debug\NotepadWF.pdb
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csprojAssemblyReference.cache
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.Form1.resources
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.Properties.Resources.resources
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csproj.GenerateResource.cache
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.csproj.CoreCompileInputs.cache
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.exe
+C:\Users\relay\OneDrive\Рабочий стол\NotepadWF\NotepadWF\NotepadWF\obj\Debug\NotepadWF.pdb
